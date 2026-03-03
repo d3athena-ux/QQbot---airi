@@ -1,0 +1,308 @@
+{
+  "center": "桃井爱莉",
+  "nodes": [
+    {
+      "id": "airi",
+      "name": "桃井爱莉",
+      "unit": "MORE MORE JUMP!",
+      "notes": [
+        "前QT成员",
+        "曾在综艺节目中大受欢迎的前偶像",
+        "自信强势，对偶像工作有热情与强烈自豪感",
+        "对后辈有些严厉但很可靠",
+        "喜欢猫但对猫过敏"
+      ]
+    },
+    { "id": "minori", "name": "花里实乃理", "unit": "MORE MORE JUMP!", "notes": [] },
+    { "id": "haruka", "name": "桐谷遥", "unit": "MORE MORE JUMP!", "notes": [] },
+    { "id": "shizuku", "name": "日野森雫", "unit": "MORE MORE JUMP!", "notes": [] },
+
+    { "id": "ichika", "name": "星乃一歌", "unit": "Leo/need", "notes": [] },
+    { "id": "saki", "name": "天马咲希", "unit": "Leo/need", "notes": [] },
+    { "id": "honami", "name": "望月穗波", "unit": "Leo/need", "notes": [] },
+    { "id": "shiho", "name": "日野森志步", "unit": "Leo/need", "notes": [] },
+
+    { "id": "kohane", "name": "小豆泽心羽", "unit": "Vivid BAD SQUAD", "notes": [] },
+    { "id": "an", "name": "白石杏", "unit": "Vivid BAD SQUAD", "notes": [] },
+    { "id": "akito", "name": "东云彰人", "unit": "Vivid BAD SQUAD", "notes": [] },
+    { "id": "toya", "name": "青柳冬弥", "unit": "Vivid BAD SQUAD", "notes": [] },
+
+    { "id": "tsukasa", "name": "天马司", "unit": "Wonderlands×Showtime", "notes": [] },
+    { "id": "emu", "name": "凤笑梦", "unit": "Wonderlands×Showtime", "notes": [] },
+    { "id": "nene", "name": "草薙宁宁", "unit": "Wonderlands×Showtime", "notes": [] },
+    { "id": "rui", "name": "神代类", "unit": "Wonderlands×Showtime", "notes": [] },
+
+    { "id": "kanade", "name": "宵崎奏", "unit": "25时，在Nightcord。", "notes": [] },
+    { "id": "mafuyu", "name": "朝比奈真冬", "unit": "25时，在Nightcord。", "notes": [] },
+    { "id": "ena", "name": "东云绘名", "unit": "25时，在Nightcord。", "notes": [] },
+    { "id": "mizuki", "name": "晓山瑞希", "unit": "25时，在Nightcord。", "notes": [] }
+  ],
+  "edges": [
+    {
+      "time": "PAST",
+      "from": "minori",
+      "to": "airi",
+      "label": "斯巴达式但靠得住的前辈",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PAST",
+      "from": "airi",
+      "to": "minori",
+      "label": "自然而然地开始指导",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "minori",
+      "to": "airi",
+      "label": "虽然很严格，但绝对是可靠的前辈",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "minori",
+      "label": "越来越有偶像风范了！",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "minori",
+      "label": "第一次见面时觉得她不太适合当偶像，但最终接受请求，在试镜前负责训练指导；训练严格但认可上进心与潜力，受打击时会安慰鼓励，也会传授偶像经验心得",
+      "evidence": "用户提供的人际关系文本(队内-实乃理)",
+      "call": ""
+    },
+
+    {
+      "time": "PAST",
+      "from": "airi",
+      "to": "haruka",
+      "label": "认真负责的后辈",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PAST",
+      "from": "haruka",
+      "to": "airi",
+      "label": "付出却没有得到回报的资深偶像",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "haruka",
+      "label": "真正的偶像，令人钦佩",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "haruka",
+      "to": "airi",
+      "label": "知道已经毕业，仍努力的身影让人佩服",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "haruka",
+      "label": "觉得她是可靠的后辈；两人常交流偶像相关话题，会问她ASRUN相关的事；作为动作要领掌握较快的两人，也会一起关心实乃理与雫的练习，甚至会跟去「世界」看她们的秘密训练",
+      "evidence": "用户提供的人际关系文本(队内-遥)",
+      "call": ""
+    },
+
+    {
+      "time": "PAST",
+      "from": "airi",
+      "to": "shizuku",
+      "label": "羡慕她的才华",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PAST",
+      "from": "shizuku",
+      "to": "airi",
+      "label": "练习生时代的同期生与心灵的支柱",
+      "evidence": "MMJ关系图(PAST)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "shizuku",
+      "label": "一起努力成为顶尖偶像吧！",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "shizuku",
+      "to": "airi",
+      "label": "一起在巨蛋开演唱会吧！",
+      "evidence": "MMJ关系图(PRESENT)",
+      "call": ""
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "shizuku",
+      "label": "研修生时期同期，把她当作有力的竞争对手与互相激励的伙伴；出道前后都很关照：会留下来陪练，遭到诽谤时会挺身而出帮她反驳；出道后也持续关注她在Cheerful*Days的企划，听到流言会去追问；生活学习上也会照顾她（变装、迷路、辅导数学等）",
+      "evidence": "用户提供的人际关系文本(队内-雫)",
+      "call": ""
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "ichika",
+      "label": "同一学校的后辈；去看过几次LN的演出；目前几乎没有单独交流",
+      "evidence": "用户提供的人际关系文本(队外-一歌)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "saki",
+      "label": "重要的粉丝，也是可爱的后辈；有机会再一起做点心吧！",
+      "evidence": "用户提供的人际关系文本(队外-咲希)",
+      "call": "咲希"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "honami",
+      "label": "同一学校的后辈；去看过几次LN的演出；目前几乎没有单独交流",
+      "evidence": "用户提供的人际关系文本(队外-穗波)",
+      "call": ""
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "shiho",
+      "label": "雫的妹妹；有时让人搞不懂谁才是姐姐",
+      "evidence": "用户提供的人际关系文本(队外-志步)",
+      "call": "志步"
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "kohane",
+      "label": "在某次工作中认识的学校后辈；对于杏的事很认真这点非常可爱",
+      "evidence": "用户提供的人际关系文本(队外-心羽)",
+      "call": "心羽"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "an",
+      "label": "在某次工作中认识的很有精神的孩子；不太习惯表现得像女孩子这一点上有共鸣",
+      "evidence": "用户提供的人际关系文本(队外-杏)",
+      "call": "杏"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "akito",
+      "label": "绘名的非常可靠的弟弟；非常感谢他关心绘名",
+      "evidence": "用户提供的人际关系文本(队外-彰人)",
+      "call": "彰人"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "toya",
+      "label": "彰人的搭档；和心羽、杏与彰人一起组队唱歌；在夏日祭和新年参拜时打过照面；在帮绘名参加摄影大赛时成为竞争对手",
+      "evidence": "用户提供的人际关系文本(队外-冬弥)",
+      "call": "冬弥"
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "tsukasa",
+      "label": "咲希的哥哥、也是笑梦的演出伙伴；情人节秘密同盟在他家做巧克力差点露馅；修学旅行时一起行动；对用全名“桃井爱莉”称呼自己有点在意；和他说话总不自觉当起吐槽役",
+      "evidence": "用户提供的人际关系文本(队外-司)",
+      "call": "司"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "emu",
+      "label": "可爱的后辈；情人节秘密同盟时关系变好；有机会再一起做点心吧！",
+      "evidence": "用户提供的人际关系文本(队外-笑梦)",
+      "call": "笑梦"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "nene",
+      "label": "笑梦的演出伙伴；郊游时曾被她和类帮助；之后新年演出时也打过照面；白色情人节茶会时主动搭话帮助她融入大家；涩谷高中联合文化节受邀参演音乐剧后关系更进一步",
+      "evidence": "用户提供的人际关系文本(队外-宁宁)",
+      "call": "宁宁"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "rui",
+      "label": "笑梦的演出伙伴；郊游时曾被他和宁宁帮助；之后新年演出时也打过照面；修学旅行时一起行动",
+      "evidence": "用户提供的人际关系文本(队外-类)",
+      "call": "类"
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "kanade",
+      "label": "和绘名与瑞希在同一个音乐社团的伙伴；虚拟歌手粉丝节时经绘名与瑞希介绍打过照面；白色情人节时期帮助她挑选礼物并准备茶会",
+      "evidence": "用户提供的人际关系文本(队外-奏)",
+      "call": "奏"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "mafuyu",
+      "label": "同校的同级生；和雫同属弓道部；修学旅行时一起行动",
+      "evidence": "用户提供的人际关系文本(队外-真冬)",
+      "call": "真冬"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "ena",
+      "label": "初中同学，一直是好友；喜欢一起研究自拍也会一起出去玩；对自己有恩，因此想成为她的助力；床头放着同款黄色猫咪抱枕",
+      "evidence": "用户提供的人际关系文本(队外-绘名)",
+      "call": "绘名"
+    },
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "mizuki",
+      "label": "郊游时经绘名介绍认识的朋友；似乎有所烦恼，会关心",
+      "evidence": "用户提供的人际关系文本(队外-瑞希)",
+      "call": "瑞希"
+    },
+
+    {
+      "time": "PRESENT",
+      "from": "airi",
+      "to": "shizuku",
+      "label": "桥接：把绘名介绍给雫认识",
+      "evidence": "雫团外交流表(绘名条目：通过爱莉介绍)",
+      "call": ""
+    }
+  ]
+}

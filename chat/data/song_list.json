@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "sekai_id": 10,
+    "title_name": "ハッピーシンセサイザ",
+    "title_cn_name": "快乐合成器"
+  },
+  {
+    "id": 2,
+    "sekai_id": 11,
+    "title_name": "ビバハピ",
+    "title_cn_name": "快乐万岁"
+  },
+  {
+    "id": 3,
+    "sekai_id": 13,
+    "title_name": "Nostalogic",
+    "title_cn_name": "Nostalogic"
+  },
+  {
+    "id": 4,
+    "sekai_id": 57,
+    "title_name": "アイドル新鋭隊",
+    "title_cn_name": "偶像新锐队"
+  },
+  {
+    "id": 5,
+    "sekai_id": 70,
+    "title_name": "メルティランドナイトメア",
+    "title_cn_name": "活动小丑"
+  },
+  {
+    "id": 6,
+    "sekai_id": 71,
+    "title_name": "ツギハギスタッカート",
+    "title_cn_name": "拼凑的断音"
+  },
+  {
+    "id": 7,
+    "sekai_id": 73,
+    "title_name": "ニア",
+    "title_cn_name": "Near"
+  },
+  {
+    "id": 8,
+    "sekai_id": 77,
+    "title_name": "ワーワーワールド",
+    "title_cn_name": "ワーワーワールド"
+  },
+  {
+    "id": 9,
+    "sekai_id": 87,
+    "title_name": "恋愛裁判",
+    "title_cn_name": "恋爱裁判"
+  },
+  {
+    "id": 10,
+    "sekai_id": 89,
+    "title_name": "Color of Drops",
+    "title_cn_name": "Marshmary"
+  },
+  {
+    "id": 11,
+    "sekai_id": 93,
+    "title_name": "青く駆けろ！",
+    "title_cn_name": "青く駆けろ！"
+  },
+  {
+    "id": 12,
+    "sekai_id": 99,
+    "title_name": "モア！ジャンプ！モア！",
+    "title_cn_name": "MORE! JUMP! MORE!"
+  },
+  {
+    "id": 13,
+    "sekai_id": 107,
+    "title_name": "ミルククラウン・オン・ソーネチカ",
+    "title_cn_name": "索涅奇卡头上的牛奶皇冠"
+  },
+  {
+    "id": 14,
+    "sekai_id": 112,
+    "title_name": "天使のクローバー",
+    "title_cn_name": "天使的幸运草"
+  },
+  {
+    "id": 15,
+    "sekai_id": 121,
+    "title_name": "ロミオとシンデレラ",
+    "title_cn_name": "少女Rei"
+  },
+  {
+    "id": 16,
+    "sekai_id": 122,
+    "title_name": "ポジティブ☆ダンスタイム",
+    "title_cn_name": "ポジティブ☆ダンスタイム"
+  },
+  {
+    "id": 17,
+    "sekai_id": 123,
+    "title_name": "どりーみんチュチュ",
+    "title_cn_name": "Dreamin Chuchu"
+  },
+  {
+    "id": 18,
+    "sekai_id": 133,
+    "title_name": "悪魔の踊り方",
+    "title_cn_name": "Journey"
+  },
+  {
+    "id": 19,
+    "sekai_id": 139,
+    "title_name": "夜に駆ける",
+    "title_cn_name": "向夜晚奔去"
+  },
+  {
+    "id": 20,
+    "sekai_id": 140,
+    "title_name": "アイスドロップ",
+    "title_cn_name": "Ice Drop"
+  },
+  {
+    "id": 21,
+    "sekai_id": 141,
+    "title_name": "群青讃歌",
+    "title_cn_name": "群青赞歌"
+  },
+  {
+    "id": 22,
+    "sekai_id": 144,
+    "title_name": "アイノマテリアル",
+    "title_cn_name": "Darling Dance"
+  },
+  {
+    "id": 23,
+    "sekai_id": 145,
+    "title_name": "ベノム",
+    "title_cn_name": "ベノム"
+  },
+  {
+    "id": 24,
+    "sekai_id": 147,
+    "title_name": "からくりピエロ",
+    "title_cn_name": "吸血鬼"
+  },
+  {
+    "id": 25,
+    "sekai_id": 154,
+    "title_name": "地球最後の告白を",
+    "title_cn_name": "地球最后的告白"
+  },
+  {
+    "id": 26,
+    "sekai_id": 157,
+    "title_name": "マシュマリー",
+    "title_cn_name": "Marshmary"
+  },
+  {
+    "id": 27,
+    "sekai_id": 168,
+    "title_name": "ダーリンダンス",
+    "title_cn_name": "Darling Dance"
+  },
+  {
+    "id": 28,
+    "sekai_id": 169,
+    "title_name": "少女レイ",
+    "title_cn_name": "少女Rei"
+  },
+  {
+    "id": 29,
+    "sekai_id": 172,
+    "title_name": "Happy Halloween",
+    "title_cn_name": "Happy Halloween"
+  },
+  {
+    "id": 30,
+    "sekai_id": 174,
+    "title_name": "いーあるふぁんくらぶ",
+    "title_cn_name": "いーあるふぁんくらぶ"
+  },
+  {
+    "id": 31,
+    "sekai_id": 188,
+    "title_name": "心予報",
+    "title_cn_name": "心预报"
+  },
+  {
+    "id": 32,
+    "sekai_id": 193,
+    "title_name": "ワールドワイドワンダー",
+    "title_cn_name": "Worldwide Wonder"
+  },
+  {
+    "id": 33,
+    "sekai_id": 209,
+    "title_name": "メタモリボン",
+    "title_cn_name": "变身领结"
+  },
+  {
+    "id": 34,
+    "sekai_id": 211,
+    "title_name": "イフ",
+    "title_cn_name": "if"
+  },
+  {
+    "id": 35,
+    "sekai_id": 213,
+    "title_name": "ヴァンパイア",
+    "title_cn_name": "吸血鬼"
+  },
+  {
+    "id": 36,
+    "sekai_id": 218,
+    "title_name": "メリュー",
+    "title_cn_name": "メリュー"
+  },
+  {
+    "id": 37,
+    "sekai_id": 232,
+    "title_name": "青色絵具",
+    "title_cn_name": "青色絵具"
+  },
+  {
+    "id": 38,
+    "sekai_id": 235,
+    "title_name": "Journey",
+    "title_cn_name": "Journey"
+  },
+  {
+    "id": 39,
+    "sekai_id": 242,
+    "title_name": "トリノコシティ",
+    "title_cn_name": "孤雏都市"
+  },
+  {
+    "id": 40,
+    "sekai_id": 252,
+    "title_name": "DREAM PLACE",
+    "title_cn_name": "梦想之地"
+  },
+  {
+    "id": 41,
+    "sekai_id": 255,
+    "title_name": "夜もすがら君想ふ",
+    "title_cn_name": "夜もすがら君想ふ"
+  },
+  {
+    "id": 42,
+    "sekai_id": 258,
+    "title_name": "深海少女",
+    "title_cn_name": "深海少女"
+  },
+  {
+    "id": 43,
+    "sekai_id": 264,
+    "title_name": "パラソルサイダー",
+    "title_cn_name": "遮阳伞与苏打汽水"
+  },
+  {
+    "id": 44,
+    "sekai_id": 269,
+    "title_name": "ロンリーユニバース",
+    "title_cn_name": "Lonely Universe"
+  },
+  {
+    "id": 45,
+    "sekai_id": 281,
+    "title_name": "気まぐれメルシィ",
+    "title_cn_name": "随心所欲mercy"
+  },
+  {
+    "id": 46,
+    "sekai_id": 287,
+    "title_name": "私は、私達は",
+    "title_cn_name": "我是，我们是"
+  },
+  {
+    "id": 47,
+    "sekai_id": 295,
+    "title_name": "フロート・プランナー",
+    "title_cn_name": "Float Planner"
+  },
+  {
+    "id": 48,
+    "sekai_id": 308,
+    "title_name": "ももいろの鍵",
+    "title_cn_name": "桃色之键"
+  },
+  {
+    "id": 49,
+    "sekai_id": 320,
+    "title_name": "Booo!",
+    "title_cn_name": "Booo!"
+  },
+  {
+    "id": 50,
+    "sekai_id": 354,
+    "title_name": "セツナトリップ",
+    "title_cn_name": "刹那旅程"
+  },
+  {
+    "id": 51,
+    "sekai_id": 355,
+    "title_name": "白い雪のプリンセスは",
+    "title_cn_name": "白如雪的公主啊"
+  },
+  {
+    "id": 52,
+    "sekai_id": 361,
+    "title_name": "きゅうくらりん",
+    "title_cn_name": "心跳不止"
+  },
+  {
+    "id": 53,
+    "sekai_id": 366,
+    "title_name": "NEO",
+    "title_cn_name": "NEO"
+  },
+  {
+    "id": 54,
+    "sekai_id": 369,
+    "title_name": "メランコリック",
+    "title_cn_name": "忧郁的心情"
+  },
+  {
+    "id": 55,
+    "sekai_id": 374,
+    "title_name": "チームメイト",
+    "title_cn_name": "Teammate"
+  },
+  {
+    "id": 56,
+    "sekai_id": 377,
+    "title_name": "悪役にキスシーンを",
+    "title_cn_name": "与反派的吻戏"
+  },
+  {
+    "id": 57,
+    "sekai_id": 400,
+    "title_name": "我らステインバスターズ！",
+    "title_cn_name": "我们是污渍克星！"
+  },
+  {
+    "id": 58,
+    "sekai_id": 405,
+    "title_name": "MOTTO!!!",
+    "title_cn_name": "MOTTO!!!"
+  },
+  {
+    "id": 59,
+    "sekai_id": 413,
+    "title_name": "さよならプリンセス",
+    "title_cn_name": "再见公主"
+  },
+  {
+    "id": 60,
+    "sekai_id": 417,
+    "title_name": "くうになる",
+    "title_cn_name": "成为空"
+  },
+  {
+    "id": 61,
+    "sekai_id": 422,
+    "title_name": "JUMPIN’ OVER !",
+    "title_cn_name": "JUMPIN’ OVER !"
+  },
+  {
+    "id": 62,
+    "sekai_id": 429,
+    "title_name": "はぐ",
+    "title_cn_name": "Hug"
+  },
+  {
+    "id": 63,
+    "sekai_id": 431,
+    "title_name": "flos",
+    "title_cn_name": "flos"
+  },
+  {
+    "id": 64,
+    "sekai_id": 437,
+    "title_name": "え？あぁ、そう。",
+    "title_cn_name": "え？あぁ、そう。"
+  },
+  {
+    "id": 65,
+    "sekai_id": 457,
+    "title_name": "Supernova",
+    "title_cn_name": "妄想アスパルテーム"
+  },
+  {
+    "id": 66,
+    "sekai_id": 474,
+    "title_name": "キラー",
+    "title_cn_name": "Supernova"
+  },
+  {
+    "id": 67,
+    "sekai_id": 482,
+    "title_name": "だめにんげんだ!",
+    "title_cn_name": "だめにんげんだ!"
+  },
+  {
+    "id": 68,
+    "sekai_id": 489,
+    "title_name": "熱風",
+    "title_cn_name": "熱風"
+  },
+  {
+    "id": 69,
+    "sekai_id": 494,
+    "title_name": "ポッピンキャンディ☆フィーバー！",
+    "title_cn_name": "ポッピンキャンディ☆フィーバー！"
+  },
+  {
+    "id": 70,
+    "sekai_id": 495,
+    "title_name": "スーパーヒーロー",
+    "title_cn_name": "スーパーヒーロー"
+  },
+  {
+    "id": 71,
+    "sekai_id": 498,
+    "title_name": "はしる! とおく! とどく!",
+    "title_cn_name": "はしる! とおく! とどく!"
+  },
+  {
+    "id": 72,
+    "sekai_id": 511,
+    "title_name": "如月アテンション",
+    "title_cn_name": "如月アテンション"
+  },
+  {
+    "id": 73,
+    "sekai_id": 521,
+    "title_name": "オーバーライド",
+    "title_cn_name": "オーバーライド"
+  },
+  {
+    "id": 74,
+    "sekai_id": 530,
+    "title_name": "キャットフード",
+    "title_cn_name": "キャットフード"
+  },
+  {
+    "id": 75,
+    "sekai_id": 539,
+    "title_name": "イレヴンス",
+    "title_cn_name": "イレヴンス"
+  },
+  {
+    "id": 76,
+    "sekai_id": 544,
+    "title_name": "妄想アスパルテーム",
+    "title_cn_name": "妄想アスパルテーム"
+  },
+  {
+    "id": 77,
+    "sekai_id": 554,
+    "title_name": "snooze",
+    "title_cn_name": "snooze"
+  },
+  {
+    "id": 78,
+    "sekai_id": 575,
+    "title_name": "FUN!!",
+    "title_cn_name": "FUN!!"
+  },
+  {
+    "id": 79,
+    "sekai_id": 582,
+    "title_name": "アンチユー",
+    "title_cn_name": "熱風"
+  },
+  {
+    "id": 80,
+    "sekai_id": 585,
+    "title_name": "ペンタトニック",
+    "title_cn_name": "ペンタトニック"
+  },
+  {
+    "id": 81,
+    "sekai_id": 601,
+    "title_name": "ルマ",
+    "title_cn_name": "ルマ"
+  },
+  {
+    "id": 82,
+    "sekai_id": 607,
+    "title_name": "回る空うさぎ",
+    "title_cn_name": "回る空うさぎ"
+  },
+  {
+    "id": 83,
+    "sekai_id": 610,
+    "title_name": "Polar Star",
+    "title_cn_name": "Polar Star"
+  },
+  {
+    "id": 84,
+    "sekai_id": 621,
+    "title_name": "東京サマーセッション",
+    "title_cn_name": "東京サマーセッション"
+  },
+  {
+    "id": 85,
+    "sekai_id": 629,
+    "title_name": "8.32",
+    "title_cn_name": "8.32"
+  },
+  {
+    "id": 86,
+    "sekai_id": 635,
+    "title_name": "ありのままのストーリーを",
+    "title_cn_name": "ありのままのストーリーを"
+  },
+  {
+    "id": 87,
+    "sekai_id": 659,
+    "title_name": "あなたの空が泣くのなら",
+    "title_cn_name": "あなたの空が泣くのなら"
+  },
+  {
+    "id": 88,
+    "sekai_id": 700,
+    "title_name": "魔法少女とチョコレゐト",
+    "title_cn_name": "魔法少女とチョコレゐト"
+  }
+]
